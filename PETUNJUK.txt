@@ -1,0 +1,24 @@
+==================
+Aplikasi Sistem Poin Pelanggaran Siswa
+
+Framework : 
+codeigniter
+=================
+Recomendasi versi PHP :
+PHP 7.4
+
+============
+PETUNJUK :
+buat database
+sesuiakan nama database dan url di php/config.php
+
+================
+ADMIN
+user : admin
+pass : poltek123
+
+MAHASISWA
+user : user
+pass : poltek123
+
+
